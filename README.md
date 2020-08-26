@@ -21,6 +21,10 @@
 
 **Wallpaper**: [The first image found on Google](wallpapers/wallpaper.jpeg)
 
+**Terminal**: xfce4-terminal
+
+**Discord**: [Discord Client](https://github.com/Lightcord/Lightcord)
+
 **Vim Configuration**: [SpaceVim](https://github.com/SpaceVim/SpaceVim)
 
 **D-Menu**: [Rofi](https://github.com/davatorium/rofi) 
