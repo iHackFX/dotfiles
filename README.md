@@ -19,6 +19,10 @@
 
 **GTK Theme**: [Kripton](https://github.com/EliverLara/Kripton)
 
+**Wallpaper**: [The first image found on Google](wallpapers/wallpaper.jpeg)
+
+**Vim Configuration**: [SpaceVim](https://github.com/SpaceVim/SpaceVim)
+
 **D-Menu**: [Rofi](https://github.com/davatorium/rofi) 
 
 **Compositor**: [Picom](https://github.com/yshui/picom)
